@@ -1,0 +1,23 @@
+{
+  "name": "my-claude-skills",
+  "owner": { "name": "Dillon Mariani" },
+  "metadata": {
+    "description": "Personal collection of reviewed Claude skills and plugins.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "personal",
+      "source": "./plugins/personal",
+      "description": "My own skills, written from scratch.",
+      "version": "0.1.0"
+    },
+    {
+      "name": "ui-ux-pro-max",
+      "source": "./plugins/ui-ux-pro-max",
+      "description": "UI/UX design intelligence (vendored from nextlevelbuilder/ui-ux-pro-max-skill v2.15.0, reviewed).",
+      "version": "2.15.0",
+      "category": "design"
+    }
+  ]
+}

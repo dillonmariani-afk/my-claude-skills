@@ -22,7 +22,7 @@ plugins/
 **Claude Code (any computer):**
 
 ```
-/plugin marketplace add <github-user>/my-claude-skills
+/plugin marketplace add dillonmariani-afk/my-claude-skills
 /plugin install ui-ux-pro-max@my-claude-skills
 /plugin install personal@my-claude-skills
 ```
